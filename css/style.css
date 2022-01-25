@@ -74,6 +74,10 @@ hr {
    text-align: center;
 }
 
+/**/
+/**/
+/**/
+/**/
 /* Navbar */
 
 .navbar {
@@ -104,16 +108,16 @@ hr {
    }
 }
 
+/**/
+/**/
+/**/
+/**/
 /* SECTION-HOME */
 
 .section-home {
    text-align: center;
    padding: 10rem;
    width: 100%;
-}
-
-.center {
-   margin: 0 auto;
 }
 
 .text-box {
@@ -125,7 +129,7 @@ hr {
    font-size: 5rem;
    font-weight: bold;
    margin-bottom: 2rem;
-   animation: moveFromTop 3s ease-in-out;
+   animation: moveFromTop 1.5s ease-out;
    transition: all 0.3s;
 }
 
@@ -261,6 +265,10 @@ section {
 }
 /* SECTION EVENTS */
 
+/**/
+/**/
+/**/
+/**/
 /* things we do */
 .section-wedo {
    margin: 0 auto;
@@ -327,7 +335,15 @@ section {
    border-bottom: 3px solid black;
 }
 
+/**/
+/**/
+/**/
+/**/
 /* section-team */
+
+#section-team {
+   background: url(../images/blueBg.jpg);
+}
 
 .title-img-box {
    text-align: center;
